@@ -1,6 +1,3 @@
-# System Design Interviews
-a personal jar of system industrial and system design resources for interviews
-
 > How to prepare system design questions
 
 System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems.
