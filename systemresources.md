@@ -1,7 +1,5 @@
 # System Design Interviews
 
-> How to prepare system design questions
-
 ## <a name='toc'>Table of Contents</a>
 - [ ] [System Design Interview Tips](#tips)
 - [ ] [Basic Knowledge about System Design](#intro)
